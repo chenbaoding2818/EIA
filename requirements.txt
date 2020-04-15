@@ -54,6 +54,6 @@ six==1.11.0
 tld==0.7.9
 tornado==5.1.1
 typed-ast==1.1.0
-urllib3==1.23
+urllib3==1.24.2
 vine==1.1.4
 wrapt==1.10.11
